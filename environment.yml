@@ -13,6 +13,9 @@ dependencies:
   - notebook
   - ipykernel
   - nbformat
+  - protobuf<4
+  - setuptools<71
   - pip
   - pip:
-      - kaleido
+      - kaleido==0.2.1
+
