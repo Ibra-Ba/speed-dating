@@ -6,3 +6,4 @@ __pycache__/
 .env
 #scripts brouillons
 notebooks/01_speed_dating_eda.ipynb
+notebooks/01_speed_dating_eda1.ipynb
